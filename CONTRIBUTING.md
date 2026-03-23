@@ -1,0 +1,3 @@
+# Contributing to BOS
+We welcome contributions!
+Please follow these guidelines...
