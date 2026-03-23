@@ -38,3 +38,6 @@ GreenCode/
 
 ## Contribution Guide
 Thank you for contributing to GreenCode!
+
+## Contribution Guide
+Thank you for contributing to GreenCode!
