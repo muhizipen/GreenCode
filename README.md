@@ -41,3 +41,6 @@ Thank you for contributing to GreenCode!
 
 ## Contribution Guide
 Thank you for contributing to GreenCode!
+## Important Links
+- [Documentation](https://docs.example.com)
+- [Issue Tracker](https://github.com/muhizipen/LifeLine-ICT/issues)
